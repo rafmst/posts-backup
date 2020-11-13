@@ -1,4 +1,4 @@
-## Nim for beginners #1 Introduction & Basics
+## Nim for beginners - Introduction & Basics
 
 ## What is Nim?
 
